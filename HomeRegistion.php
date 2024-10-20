@@ -19,7 +19,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="HomeRegistration.php">Home</a> <!-- Mengarahkan ke halaman registration -->
+                        <a class="nav-link active" aria-current="page" href="HomeRegistion.php">Home</a> <!-- Mengarahkan ke halaman registration -->
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="Display_Data.php">View Data</a> <!-- Mengarahkan ke halaman display data -->
